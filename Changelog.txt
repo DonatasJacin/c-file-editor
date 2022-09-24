@@ -1,0 +1,3 @@
+Operation: Create File     File(s): Hello
+Operation: Append Line     File(s): Hello
+Operation: Delete File     File(s): Hello
